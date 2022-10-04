@@ -1,4 +1,3 @@
-package fractionsv2;
 //import java.math.*;
 
 public class Fraction {
