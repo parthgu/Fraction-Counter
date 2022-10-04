@@ -1,5 +1,3 @@
-package fractionsv2;
-
 public class FractionCounter {
 
 	private Fraction theFraction;
